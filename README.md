@@ -1,6 +1,7 @@
-# AHB-to-APB-Bridge-Protocol
-# AHB to APB Bridge
-
+# AHB-to-APB-Bridge-Protocol:- 
+## Protocol:- 
+Protocol is to establish the communication between hardwares. 
+It is a set of rules that need to be followed by the communicating parties in order to have successful and reliable data communication.
 
 
 
