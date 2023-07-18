@@ -159,7 +159,8 @@ RTL Model:
 ![bridge_rtl](https://user-images.githubusercontent.com/91010702/194485990-f8ff7727-387e-42ef-8fa7-d39034216ffc.png)
 
 State Machine Viewer:
-![bridge_fsm](https://user-images.githubusercontent.com/91010702/194485981-4a8f44e9-390b-4100-84b3-abe9c4930377.png)
+
+![IMG20230718103133](https://github.com/sajjapratyusha/AHB-to-APB-Bridge-Protocol/assets/109581140/fcbdebf0-e5de-4e9c-a3fb-751db0bcd871)
 
 
 # Further Work
