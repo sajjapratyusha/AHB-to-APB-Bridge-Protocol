@@ -175,4 +175,16 @@ State Machine Viewer:
 - AMBA Specifications | Chapter 1,2,3 and 5 | [AMBA Specifications.pdf](https://github.com/prajwalgekkouga/AHB-to-APB-Bridge/files/9731507/AMBA.Specifications.pdf)
 
 
+# Author
+
+
+Sajja Pratyusha 
+
+Pre-Final Year B.tech ECE
+
+Rajiv Gandhi University of Knowledge Technologies 
+
+Mail : sajjapratyusha@gmail.com
+
+
 
