@@ -123,8 +123,8 @@ The diagram below shows the interface:
 ## Basic Implementation Tools
 
 - HDL Used : Verilog
-- Simulator Tool Used: ModelSIM
-- Synthesis Tool Used: Quartus Prime
+- Simulator Tool Used: Xilinx
+- Synthesis Tool Used: Xilinx
 - Family: Cyclone V
 - Device: 5CSXFC6D6F31I7ES
 
