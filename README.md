@@ -180,7 +180,7 @@ State Machine Viewer:
 
 Sajja Pratyusha 
 
-Pre-Final Year B.tech ECE
+Final Year B.tech ECE
 
 Rajiv Gandhi University of Knowledge Technologies 
 
