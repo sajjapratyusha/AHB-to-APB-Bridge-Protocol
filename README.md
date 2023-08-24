@@ -1,8 +1,19 @@
+
+
 # ACKOWLEDGEMENT
 # ABSTRACT
 The Advanced Microcontroller Bus Architecture (AMBA) is an open System-on-Chip bus protocol for high performance buses to communicate with low-power devices. In the AMBA High-performance Bus (AHB) a system bus is used to connect a processor, a DSP, and high-performance memory controllers whereas the AMBA Advanced Peripheral Bus (APB) is used to connect (Universal Asynchronous Receiver Transmitter) UART and otherUSB , VGA  peripheral ports in the soc. It also contains a Bridge, which connects the AHB and APB buses. Bridges are standard bus-to-bus interfaces that allow IPs connected to different buses to communicate with each other in a standardized way. 
  
 In this project, I have developed a synthesizable design of AHB2APB bridge and testbench for the functional verification of the same in verilog . 
+
+# CONTENT
+## AHB block diagram
+## AHB master interface
+## AHB slave interface
+## AHB to APB Bridge block diagram
+## AHB to APB transfer state machine
+## Verilog Code
+## References
 
 
 
