@@ -12,7 +12,6 @@ In this project, I have developed a synthesizable design of AHB2APB bridge and t
 ## AHB slave interface
 ## AHB to APB Bridge block diagram
 ## AHB to APB transfer state machine
-## Verilog Code
 ## References
 
 
